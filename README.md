@@ -43,7 +43,7 @@ The model uses real-world agricultural datasets containing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Crop Yield Prediciton model
+   git clone https://github.com/atharva154/Crop-Yield-Prediction-model.git
 Open the .ipynb file using Jupyter Notebook or VS Code.
 
 Install required libraries:
